@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './friend_profile.js'
 import './index.css';
 
 function Friend(props){
